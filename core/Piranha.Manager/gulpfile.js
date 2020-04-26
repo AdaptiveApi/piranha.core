@@ -246,6 +246,14 @@ var js = [
         ]
     },
     {
+        name: "piranha.postlist.js",
+        items: [
+            "assets/src/js/components/pagecopy-item.vue",
+            "assets/src/js/components/sitemap-item.vue",
+            "assets/src/js/piranha.postlist.js"
+        ]
+    },
+    {
         name: "piranha.postedit.js",
         items: [
             "assets/src/js/piranha.postedit.js"
